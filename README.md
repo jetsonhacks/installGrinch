@@ -1,7 +1,7 @@
 # installGrinch
 Installation script for the Grinch Kernel on the NVIDIA Jetson TK1.
 Grinch is the result of work and is supported by user Santyago.
-This installation script is for Linux for Tegra (L4T) 21.3, which be installed on the Jetson before running the install script.
+This installation script is for Linux for Tegra (L4T) 21.3, which must be installed on the Jetson before running the install script.
 Grinch Kernel Version 21.3.4.
 
 To install the Grinch Kernel:
