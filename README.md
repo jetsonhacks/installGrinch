@@ -8,7 +8,11 @@ To install the Grinch Kernel:
 
 $ ./installGrinch.sh
 
-The Grinch Kernel for L4T provides fixes, module and firmware support to the stock kernel. There are over 60 changes and additions to the kernel and module system. Please see https://devtalk.nvidia.com/default/topic/823132/embedded-systems/-customkernel-the-grinch-21-3-4-for-jetson-tk1-developed/ for more information, supported devices, and support for the Grinch Kernel. 
+The Grinch Kernel for L4T provides fixes, module and firmware support to the stock kernel. There are over 60 changes and additions to the kernel and module system. Please see the NVIDIA Jetson Forum:
+
+https://devtalk.nvidia.com/default/topic/823132/embedded-systems/-customkernel-the-grinch-21-3-4-for-jetson-tk1-developed/ 
+
+for more information, supported devices, and support for the Grinch Kernel. 
 
 Note: If you want to enable SPI (the install script does not do this by default):
 
