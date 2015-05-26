@@ -11,6 +11,7 @@ To install the Grinch Kernel:
 
 $ ./installGrinch.sh
 
+After the install script completes, reboot the Jetson TK1.
 
 Note: If you want to enable SPI (the install scripts do not do this by default):
 
